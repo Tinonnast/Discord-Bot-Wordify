@@ -1,0 +1,11 @@
+[project]
+name = "discordbot"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "deep-translator>=1.11.4",
+    "discord-py>=2.7.1",
+    "langdetect>=1.0.9",
+    "requests>=2.34.2",
+    "rich>=15.0.0",
+]
